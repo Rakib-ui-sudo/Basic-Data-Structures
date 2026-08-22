@@ -1,0 +1,11 @@
+Module03 ar 1 thakea 5 porjonto class gulota prefix alochona acha.
+
+//prefix sum ----------
+    vector<long long int>pre(n+1);
+    pre[1]=a[1];
+    for (int i = 2; i <=n ; i++)
+    {
+        pre[i]=pre[i-1]+a[i];
+    }
+    
+    //prefix sum end----------------

@@ -1,0 +1,18 @@
+
+
+Constant:   O(1)  -->1
+Linear:     O(N)   -->1000
+Logaritmic: O(logN) -->9.96 mana 10
+square root: O(sqrt(N)) -->32
+quadratic:   O(N*N)  -->2000000
+Linearitmic: O(logN) -->1000 * 10 = 10000
+
+
+Best marke
+
+Constant:   O(1)
+Logaritmic: O(logN)
+square root: O(sqrt(N))
+Linear:     O(N)  
+Linearitmic: O(logN)
+quadratic:   O(N*N)
